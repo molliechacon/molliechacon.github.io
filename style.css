@@ -5,5 +5,21 @@ body {
 
 img {
 	width: 300px;
-	padding: 15px;
+	border: 2px solid green;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	
+}
+
+h1 {
+	/*font-size: 18px;*/
+	font-weight: bold;
+	font-family: sans-serif;
+	margin-bottom: 15px;
+
+}
+
+body {
+	padding: 8px;
+	font-size: 2em;
 }
